@@ -1,8 +1,10 @@
-### Coding language: C
+# Coding is done in _Ubuntu_
+
+# Coding language: C
 
 
 
-### Pre-requisites: 
+# Pre-requisites: 
 
 1: array and its basic manipulations
 
